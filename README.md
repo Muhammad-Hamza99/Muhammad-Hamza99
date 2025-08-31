@@ -7,7 +7,7 @@
 
 <!-- Animated divider -->
 
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider" width="100%">
 
 <img align="right" alt="Coding GIF" width="350" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
@@ -21,7 +21,7 @@
 ⚡ **Fun fact:** I once coded for 12 hours straight and loved every minute of it!  
 🎯 **2025 Goals:** Contribute more to open source & master TypeScript  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nawaz0721&label=Profile%20views&color=0e75b6&style=flat" alt="nawaz0721" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Muhammad-Hamza99&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad-Hamza99" /> </p>
 
 
 ## 🌐 Let's Connect:
@@ -31,7 +31,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://nawaz0721.vercel.app/)
+
 
 </div>
 
