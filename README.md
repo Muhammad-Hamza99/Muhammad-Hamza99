@@ -83,7 +83,6 @@
 ## 🚀 Featured Projects
 <div align="center">
   <a href="https://github.com/Muhammad-Hamza99/Ecommerce_website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Hamza99&repo=E-Commerce&theme=radical&show_owner=true" alt="E-Commerce" />
   </a>
 </div>
 <!--END_SECTION:waka-->
