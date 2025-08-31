@@ -62,21 +62,21 @@
 ### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
 
 # 📊 GitHub Stats:
 <div align="center">
   
-[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawaz0721&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=24)](https://github.com/nawaz0721)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nawaz0721&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/nawaz0721)
-[![GitHub Streak](https://streak-stats.demolab.com?user=nawaz0721&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Hamza99&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=24)](https://github.com/Muhammad-Hamza99)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hamza99&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/Muhammad-Hamza99)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Muhammad-Hamza99&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=nawaz0721&theme=radical&margin-w=15&margin-h=15&no-frame=true&no-bg=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Muhammad-Hamza99&theme=radical&margin-w=15&margin-h=15&no-frame=true&no-bg=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
