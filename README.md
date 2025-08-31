@@ -1,52 +1,93 @@
-## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px"/>, I'm Muhammad Hamza!
+<!--START_SECTION:waka-->
 
-<!--
-**Muhammad-Hamza99/Muhammad-Hamza99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm MUHAMMAD HAMZA SIDDIQUI</h1>
+<h3 align="center">A passionate MERN STACK Developer.</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-<a href="https://www.facebook.com/profile.php?id=100009434039543">
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="30" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:m.hamzasiddiqui22@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/muhammad-hamza-386a36306/">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" />
-</a>
+<!-- Animated divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider" width="100%">
 
-## About Me 🚀
 
-🎓 I'm a Data Engineer and Mern Stack Developer. <br/>
-🔨 Proficient in drawing out business value mainly by using Data Engineering tools (i:e., AWS, Azure, Databricks, Snowflake). <br/>
-👨‍💻 I'm interested in data-related fields like GenAI, Machine Learning, Deep Learning, Data Science, Data Analyst & I enjoy learning new things. <br/>
+<img align="right" alt="Coding GIF" width="350" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-## My Expereinces 🙌
 
-- [Aptech Pakistan](https://www.linkedin.com/company/aptech-garden-pakistan/) - Working as Mern Stack Developer
+# 💫 About Me:
+🔭 **Currently working on:** A very secret project (shhh!)  
+🌱 **Currently learning:** Advanced React patterns & Web3 development  
+👯 **Looking to collaborate on:** A weather app with real-time analytics  
+🤝 **Looking for help with:** Integrating a chat API into my projects  
+💬 **Ask me about:** My favorite programming tools (VS Code + Copilot FT! + Jupyter Notebook)  
+⚡ **Fun fact:** I once coded for 12 hours straight and loved every minute of it!  
+🎯 **2025 Goals:** Contribute more to open source & master TypeScript  
 
-## Techanical Skills 🛠️
-- **Cloud Platforms**: Amazon Web Services (AWS)
-- **Data Platforms**: Databricks, Snowflake
-- **Programming Languages**: Python, SQL, Apache Kafka, Apache AirFlow
-- **Libraries/Tools**: NumPy, Pandas, Matplotlib, Git, Github, SnowFlake
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nawaz0721&label=Profile%20views&color=0e75b6&style=flat" alt="nawaz0721" /> </p>
 
-## Certification
-- Hp Life Certified Data Analyst
 
-## Follow
-- To follow my GitHub, Search by username `Muhammad-Hamza99`
- 
+## 🌐 Let's Connect:
+<div align="center">
   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-nawaz-gondal-64b79b262/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://nawaz0721.vercel.app/)
+
+</div>
+
+# 🛠 Tech Stack:
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 📜 Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+# 📊 GitHub Stats:
+<div align="center">
+  
+[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawaz0721&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=24)](https://github.com/nawaz0721)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nawaz0721&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/nawaz0721)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nawaz0721&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=nawaz0721&theme=radical&margin-w=15&margin-h=15&no-frame=true&no-bg=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+## 🚀 Featured Projects
+<div align="center">
+  <a href="https://github.com/nawaz0721/Car-Rental">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nawaz0721&repo=Car-Rental&theme=radical&show_owner=true" alt="Car Rental System" />
+  </a>
+</div>
+<!--END_SECTION:waka-->
