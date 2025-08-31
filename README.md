@@ -82,7 +82,6 @@
 
 ## 🚀 Featured Projects
 <div align="center">
-  <a href="https://github.com/Muhammad-Hamza99/Ecommerce_website">
-  </a>
+  <a href="https://github.com/Muhammad-Hamza99/Ecommerce_website">E-Commerce project</a>
 </div>
 <!--END_SECTION:waka-->
